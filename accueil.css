@@ -1,0 +1,57 @@
+
+#accroche {
+    height: 300%;
+    background: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#accroche h2 {
+    color: black;
+    background: white;
+    font-size: 32px;
+    margin: 0;
+    margin-bottom: 40px;
+}
+
+#exemple{
+    background-color: white;
+    padding: 80px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+#exemple h2 {
+    margin: 0;
+    margin-bottom: 40px;
+    font-size: 26px;
+    color: rgb(39, 39, 40);
+}
+
+#exemple ul {
+    display: flex;
+    list-style: none;
+}
+
+.paragraphe {
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    text-decoration: wavy;
+}
+
+.media {
+    height: 400px;
+    width: 700px;
+}
+
+.souligne {
+    text-decoration: uppercase;
+    margin: 0;
+    margin-bottom: 20px;
+    font-size: 30px;
+    align-items: left;
+}
